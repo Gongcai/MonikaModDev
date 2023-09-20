@@ -26,6 +26,7 @@ python early:
     ##
     ## Windows: %APPDATA\RenPy\<config.save_directory>
     ##
+   
     ## Macintosh: $HOME/Library/RenPy/<config.save_directory>
     ##
     ## Linux: $HOME/.renpy/<config.save_directory>

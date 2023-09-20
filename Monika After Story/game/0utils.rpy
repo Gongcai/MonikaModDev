@@ -1,5 +1,5 @@
 
-#NOTE: This is done during init because exceptions are suppressed in early, singleton needs to raise an exception
+#NOTE: This is done during init because exceptions are suppressed in early, singleton needs to raise an exception ooo
 init -1500 python:
     import os
     import singleton
